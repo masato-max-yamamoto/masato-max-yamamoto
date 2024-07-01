@@ -1,6 +1,6 @@
 <!-- 1. Change GitHub username -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+  <img src="https://komarev.com/ghpvc/?username=masato-max-yamamoto" />
 </div>
 
 
