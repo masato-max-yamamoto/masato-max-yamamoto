@@ -8,6 +8,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, World! I'm Max Yamamoto!
 
 - 🧑‍💻 I'm a Researcher in Quantitative Finance
+- 🧑‍💻 Bachelor of Economics and Master of Economics from Osaka University, Japan
+- 🧑‍💻 MBA and Master of Management Science in Asset Management from Yale School of Management
 - 🌱 I’m currently learning Fortran!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/max-yamamoto-a7047729/)
 - 👯 I’m looking to collaborate on Factor models, measuring impacts from ESG investing, and Trading costs particularly in Japan.
