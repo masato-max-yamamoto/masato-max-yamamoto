@@ -5,7 +5,7 @@
 
 
 <!-- 2. profiles and contacts -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, World! I'm Max Yamamoto!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, World! I'm Masato Max Yamamoto!
 
 - 🧑‍💻 I'm a Researcher in Quantitative Finance
 - 🧑‍💻 Bachelor of Economics and Master of Economics from Osaka University, Japan
